@@ -1,5 +1,5 @@
 # Olá, meu nome e Fernando!👋🏼
-<img src="https://imgur.com/wQggkgV.png" width="450px" align="right" alt="Desenvolvedor" style="max-width:100%;marginbottom:5px">
+<img src="https://imgur.com/wQggkgV.png" width="450px" align="right" alt="Desenvolvedor" style="max-width:100%;margin-bottom:5px">
 <p align="left"> 
 <br>
  
