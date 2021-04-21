@@ -1,10 +1,18 @@
+
 # Olá, meu nome e Fernando!👋🏼
 <img src="https://imgur.com/wQggkgV.png" width="450px" align="right" alt="Desenvolvedor" style="max-width:100%;">
 <p align="left"> 
+
 📚 Cursando Técnico em Informática - Senac.<br>
 🏠 São Bernardo do Campo - Sp.<br>
 💼 Em busca de desafios.
 </p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
  **Contato** 👇
  
