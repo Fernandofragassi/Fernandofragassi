@@ -1,16 +1,22 @@
-### Hi there 👋
 
-<!--
-**Fernandofragassi/Fernandofragassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, meu nome e Fernando!👋🏼
+<img src="https://imgur.com/wQggkgV.png" width="450px" align="right" alt="Desenvolvedor" style="max-width:100%;">
+<p align="left"> 
+📚 Cursando Técnico em Informática - Senac.<br>
+🏠 São Bernardo do Campo - Sp.<br>
+💼 Em busca de desafios.
+</p>
 
-Here are some ideas to get you started:
+ <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=fernandofragassi&layout=compact&theme=vue-dark&custom_title=Linguagens que mais uso :">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ **Contato** 👇
+<br>
+<br>
+[![Linkedin Badge](https://img.shields.io/badge/-Fernando%20Fragassi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandofragassi/)](https://www.linkedin.com/in/fernandofragassi) [![Gmail Badge](https://img.shields.io/badge/-Fernando%20Fragassi-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fernandofragassi@gmail.com)](mailto:fernanofrgassi@gmail.com)
