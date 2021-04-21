@@ -7,13 +7,6 @@
 🏠 São Bernardo do Campo - Sp.<br>
 💼 Em busca de desafios.
 </p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
  **Contato** 👇
  
