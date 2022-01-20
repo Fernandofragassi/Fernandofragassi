@@ -3,11 +3,13 @@
 <p align="left"> 
 <br>
  
-📚 Cursando Técnico em Informática - Senac.<br>
+ Aqui você acha meus projetos e trabalhos e também o que eu tento e da errado 😅 
+ 
+📚 Cursando Ciência da computação - USCS<br>
 
 🏠 São Bernardo do Campo - Sp.<br>
 
-💼 Em busca de desafios.
+💼 Analista de suporte tecnico.
 </p>
 
 🙋‍♂️ **Contato** 👇
