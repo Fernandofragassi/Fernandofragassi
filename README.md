@@ -1,5 +1,5 @@
 # Olá 👋🏼
-<img src="https://imgur.com/wQggkgV.png" width="450px" align="right" alt="Desenvolvedor" style="max-width:100%;margin-bottom:5px">
+<img src="https://imgur.com/wQggkgV.png" width="450px" align="right" alt="Desenvolvedor" style="max-width:100%;margin-bottom:5px;widht:300px">
 <p align="left"> 
 <br>
  
