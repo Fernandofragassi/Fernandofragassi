@@ -1,6 +1,6 @@
 # Olá 👋🏼
 <img src="https://imgur.com/wQggkgV.png" width="450px" align="right" alt="Desenvolvedor" style="max-width:100%;margin-bottom:5px">
-<p align="left" style="min-width:200px"> 
+<p > 
 <br>
  
  Aqui você acha meus projetos e trabalhos e também o que eu tento e da errado 😅 
