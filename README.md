@@ -1,9 +1,8 @@
 # Olá 👋🏼
 <img src="https://imgur.com/wQggkgV.png" width="450px" align="right" alt="Desenvolvedor" style="max-width:100%;margin-bottom:5px">
 <p > 
-<br>
- 
- Aqui você acha meus projetos e trabalhos e também o que eu tento e da errado 😅 
+<br> 
+
  
 📚 Cursando Ciência da computação - USCS<br>
 
