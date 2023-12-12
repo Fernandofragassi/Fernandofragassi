@@ -1,15 +1,8 @@
 # Olá 👋🏼
-<img src="https://imgur.com/wQggkgV.png" width="450px" align="right" alt="Desenvolvedor" style="max-width:100%;margin-bottom:5px">
-<p > 
-<br> 
 
- 
 📚 Cursando Ciência da computação - USCS<br>
 
 🏠 São Bernardo do Campo - Sp.<br>
-
-💼 Analista de suporte tecnico.
-</p>
 
 🙋‍♂️ **Contato** 👇
  
