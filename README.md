@@ -8,6 +8,4 @@
  
 [![Linkedin Badge](https://img.shields.io/badge/-Fernando%20Fragassi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandofragassi/)](https://www.linkedin.com/in/fernandofragassi)
 
-Fernandofragassi@gmail.com
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandofragassi&layout=compact&theme=radical)](https://github.com/fernandofragassi/github-readme-stats)
